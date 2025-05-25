@@ -2,6 +2,8 @@ import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
 import json
+import streamlit as st
+api_key = st.secrets["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]
 
 st.set_page_config(page_title="CareerWise - AI Career Mentor", page_icon="🎯", layout="wide")
 
