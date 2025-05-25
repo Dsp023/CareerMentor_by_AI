@@ -3,7 +3,10 @@ import streamlit as st
 from streamlit_lottie import st_lottie
 import json
 import streamlit as st
-api_key = st.secrets["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"]
+import streamlit as st
+# Use the name of the secret, not the actual key
+api_key = st.secrets["GROQ_API_KEY"]
+
 
 st.set_page_config(page_title="CareerWise - AI Career Mentor", page_icon="🎯", layout="wide")
 
