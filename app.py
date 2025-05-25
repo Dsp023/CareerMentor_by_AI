@@ -6,7 +6,11 @@ import streamlit as st
 import streamlit as st
 # Use the name of the secret, not the actual key
 api_key = st.secrets["GROQ_API_KEY"]
-
+st.set_page_config(
+    page_title="CareerMentor By AI",
+    page_icon="favicon.png",  # Use the favicon file
+    layout="wide"
+)
 
 st.set_page_config(page_title="CareerWise - AI Career Mentor", page_icon="🎯", layout="wide")
 
