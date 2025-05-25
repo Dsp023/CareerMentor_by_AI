@@ -2,7 +2,7 @@
 
 CareerWise is a personalized AI-powered career guidance platform built with **Streamlit** and powered by **Groq's LLaMA 3 model**. It provides intelligent career advice based on your **skills**, **interests**, and **goals** — all in an elegant dark-themed interface.
 
-![CareerWise Banner](./assets/Sample.png)
+![CareerWise Banner](preview.png)
 
 ---
 
