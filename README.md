@@ -29,6 +29,6 @@ CareerWise is a personalized AI-powered career guidance platform built with **St
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/careerwise-mentor.git
+git clone https://github.com/Dsp023/CareerMentor_by_AI
 cd careerwise-mentor
 pip install -r requirements.txt
